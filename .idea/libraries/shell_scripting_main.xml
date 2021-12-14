@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="shell-scripting-main">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/shell-scripting-main.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
